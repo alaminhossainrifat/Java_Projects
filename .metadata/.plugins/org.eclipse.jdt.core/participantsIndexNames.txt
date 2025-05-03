@@ -1,0 +1,11 @@
+INDEX VERSION 1.134
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2142767355.index
+\MyWeatherApp\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1417004858.index
+\Online Shopping Project\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4050946628.index
+\WeatherApplication\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\710034698.index
+\Online Shopping Project\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1424186762.index
+\Online Shopping Project\src\main\java

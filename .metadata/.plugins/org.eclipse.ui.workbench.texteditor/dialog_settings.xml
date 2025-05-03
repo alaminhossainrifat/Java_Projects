@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="true"/>
+		<list key="replacehistory">
+			<item value="MyServlet"/>
+		</list>
+		<list key="findhistory">
+			<item value="image"/>
+			<item value="Myservlet"/>
+			<item value="images"/>
+			<item value="Mypackage"/>
+		</list>
+	</section>
+</section>
