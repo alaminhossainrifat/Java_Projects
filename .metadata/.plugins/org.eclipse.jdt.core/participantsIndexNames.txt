@@ -5,7 +5,11 @@ C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jsps
 \Online Shopping Project\src\main\java
 C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4050946628.index
 \WeatherApplication\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\746785356.index
+\Calculator\src\main\java
 C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\710034698.index
 \Online Shopping Project\src\main\java
+C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3600708485.index
+\Final_Calculator\src\main\java
 C:\Users\USER\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1424186762.index
 \Online Shopping Project\src\main\java

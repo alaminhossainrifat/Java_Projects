@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\USER\eclipse-workspace\Final_Calculator"/>
 			<item value="C:\Users\USER\eclipse-workspace\MyWeatherApp"/>
 			<item value="R:\Java Web Projects\Projects\MyWeatherApp"/>
 			<item value="R:\Java Web Projects\java-web-projects\MyWeatherApp"/>
