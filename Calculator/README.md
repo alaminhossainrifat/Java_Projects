@@ -79,7 +79,7 @@ If you face any problem running the project, follow these steps:
 
 ## Video
 
-![Video](src/main/webapp/images/Calculator.mkv)
+
 
 ## Additional Notes
 
